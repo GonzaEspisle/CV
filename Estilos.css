@@ -120,3 +120,26 @@ body {
     font-size: 16px;
     margin-top: 10px;
 }
+
+.ingles-t{
+    display: flex;
+    position: absolute;
+    top: 35px;
+    right: -500px;
+    font-size: 16px;
+    font-weight: 700;
+    margin-top: 10px;
+}
+.Ingles{
+    display: flex;
+    position: absolute;
+    top: 100px;
+    right: -600px;
+}
+/*******CONTACTO**************/
+.contacto{
+    display: flex;
+    position: absolute;
+    top: 35px;
+    
+}
